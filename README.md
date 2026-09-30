@@ -19,9 +19,9 @@
 <img src="https://img.shields.io/badge/FOCUS-AI_%2B_DATA-A594FF?style=for-the-badge&labelColor=12102A" alt="AI and Data">
 
 
-## 01 / Model card — not the usual "about me"
+## 01 / About Me
 
-ML teams document models before deployment. I borrowed the idea for myself: what I take in, what I produce, where I perform best, and how I validate the result.
+A little about myself: what I take in, what I produce, where I perform best, and how I validate the result.
 
 | Field | Details |
 |---|---|
