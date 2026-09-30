@@ -17,11 +17,7 @@
 
 <a href="mailto:vineeta2001khanna@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-2DD4BF?style=for-the-badge&labelColor=12102A" alt="Email Vineeta"></a>
 <img src="https://img.shields.io/badge/FOCUS-AI_%2B_DATA-A594FF?style=for-the-badge&labelColor=12102A" alt="AI and Data">
-<img src="https://img.shields.io/badge/BASE-SAN_DIEGO-FFB547?style=for-the-badge&labelColor=12102A" alt="San Diego">
 
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
 
 ## 01 / Model card — not the usual "about me"
 
